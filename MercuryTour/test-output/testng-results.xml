@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48244" started-at="2019-04-02T11:00:13Z" finished-at="2019-04-02T11:01:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48244" started-at="2019-04-02T11:00:13Z" finished-at="2019-04-02T11:01:01Z">
+      <class name="mercury_Tour.Mercury_Tour">
+        <test-method status="PASS" signature="A()[pri:1, instance:mercury_Tour.Mercury_Tour@2344fc66]" name="A" duration-ms="8748" started-at="2019-04-02T16:30:13Z" finished-at="2019-04-02T16:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method status="PASS" signature="support()[pri:2, instance:mercury_Tour.Mercury_Tour@2344fc66]" name="support" duration-ms="1864" started-at="2019-04-02T16:30:22Z" finished-at="2019-04-02T16:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- support -->
+        <test-method status="PASS" signature="Resgister()[pri:3, instance:mercury_Tour.Mercury_Tour@2344fc66]" name="Resgister" duration-ms="8213" started-at="2019-04-02T16:30:23Z" finished-at="2019-04-02T16:30:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Resgister -->
+        <test-method status="PASS" signature="Sign_on()[pri:4, instance:mercury_Tour.Mercury_Tour@2344fc66]" name="Sign_on" duration-ms="1508" started-at="2019-04-02T16:30:32Z" finished-at="2019-04-02T16:30:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sign_on -->
+        <test-method status="PASS" signature="Flight_finder()[pri:5, instance:mercury_Tour.Mercury_Tour@2344fc66]" name="Flight_finder" duration-ms="26720" started-at="2019-04-02T16:30:33Z" finished-at="2019-04-02T16:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flight_finder -->
+        <test-method status="PASS" signature="preferences()[pri:6, instance:mercury_Tour.Mercury_Tour@2344fc66]" name="preferences" duration-ms="1160" started-at="2019-04-02T16:31:00Z" finished-at="2019-04-02T16:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preferences -->
+      </class> <!-- mercury_Tour.Mercury_Tour -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
